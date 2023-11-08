@@ -62,6 +62,8 @@ Para verificar si los datos si se guardaron correctamente se hace un port forwar
 
 ```bash
 kubectl get pods
+```
+```bash
 kubectl port-forward -n default postgres-65bcfb64b7-kqdhn 5432:5432
 ```
 ![image](https://github.com/dgonzalezt2/API-Movies/assets/81880494/c105ae1a-7948-4aae-a9d5-51a19af1e12d)
