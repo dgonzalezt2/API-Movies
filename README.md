@@ -6,8 +6,14 @@ Crear imagen de docker
 
 ```bash
 docker login
+```
+```bash
 docker build -t api-movies:1.1.0 .
+```
+```bash
 docker tag api-movies:1.1.0 dgonzalez2/api-movies:1.1.0
+```
+```bash
 docker push dgonzalez2/api-movies:1.1.0
 ```
 ![image](https://github.com/dgonzalezt2/API-Movies/assets/81880494/c5bf9805-0467-40b7-8a0d-ace958736fc8)
