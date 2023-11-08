@@ -74,3 +74,7 @@ Para lograrlo se realizo el siguiente [TUTORIAL](https://krisadas.medium.com/k8s
 ![image](https://github.com/dgonzalezt2/API-Movies/assets/81880494/c2249d0b-69f1-4426-a6e4-547d85aa3ff8)
 
 
+### DEMO
+![image](https://github.com/dgonzalezt2/API-Movies/assets/81880494/579c436c-822b-4fca-8b1b-5d53834a1b3f)
+![image](https://github.com/dgonzalezt2/API-Movies/assets/81880494/2d1d7956-e5bf-4ee7-a286-c03771defb00)
+
