@@ -65,7 +65,12 @@ kubectl port-forward -n default postgres-65bcfb64b7-kqdhn 5432:5432
 ![image](https://github.com/dgonzalezt2/API-Movies/assets/81880494/b14b458c-a0e6-43e1-a555-0837e6b380bf)
 
 
+### Visor de kubernetes 
 
+Se instala la herramienta OpenLens para visualizar el cluster
 
+Para lograrlo se realizo el siguiente [TUTORIAL](https://krisadas.medium.com/k8s-lens-with-google-cloud-255ccff5692) 
+
+![image](https://github.com/dgonzalezt2/API-Movies/assets/81880494/c2249d0b-69f1-4426-a6e4-547d85aa3ff8)
 
 
