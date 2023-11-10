@@ -85,6 +85,29 @@ Para lograrlo se realizo el siguiente [TUTORIAL](https://krisadas.medium.com/k8s
 
 
 ### DEMO
+
+Haciendo un POST con el siguiente http:
+
+```bash
+http://34.122.77.128:5000/api/v1.0/films/
+```
+
+Con el siguiente Json:
+
+```bash
+{
+    "title": "Pulp Fiction",
+    "length": 9180,
+    "year": 1994,
+    "director": "Quentin Tarantino",
+    "actors": [
+        { "name": "John Travolta" },
+        { "name": "Samuel L. Jackson" },
+        { "name": "Uma Thurman" }
+    ]
+}
+```
+
 ![image](https://github.com/dgonzalezt2/API-Movies/assets/81880494/579c436c-822b-4fca-8b1b-5d53834a1b3f)
 ![image](https://github.com/dgonzalezt2/API-Movies/assets/81880494/2d1d7956-e5bf-4ee7-a286-c03771defb00)
 
