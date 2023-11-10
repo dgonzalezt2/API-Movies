@@ -108,6 +108,11 @@ Con el siguiente Json:
 }
 ```
 
+En Insomnia se veria asi el POST:
+
+![image](https://github.com/dgonzalezt2/API-Movies/assets/81880494/e359919e-21dc-49c5-bff7-24a42cd06e60)
+
 ![image](https://github.com/dgonzalezt2/API-Movies/assets/81880494/579c436c-822b-4fca-8b1b-5d53834a1b3f)
+
 ![image](https://github.com/dgonzalezt2/API-Movies/assets/81880494/2d1d7956-e5bf-4ee7-a286-c03771defb00)
 
