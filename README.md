@@ -35,6 +35,7 @@ Se requiere agregar las siguientes variables de entorno:
             value: "false"
 ```
 Para leer las variables de entorno se requiere instalar la siguiente dependencia: `python-decouple`
+Fijarse bien si esta incluido en el archivo: `requirements.txt`
 
 ### Base de datos
 
